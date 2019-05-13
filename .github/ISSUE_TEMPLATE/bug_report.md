@@ -2,7 +2,7 @@
 name: Feature Request
 about: Suggest an idea for this project.
 title: Feature Request: [your feature request here]
-labels: ["bug", "task"]
+labels: bug, task
 
 ---
 **Proposal**
