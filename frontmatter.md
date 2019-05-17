@@ -1,5 +1,5 @@
 ---
-author: @DHowett-MSFT
+author: "@DHowett-MSFT"
 date: 2018-09-21
 thing: stuff
 
